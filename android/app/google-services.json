@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625811854868",
+    "project_id": "final-year-project-cda14",
+    "storage_bucket": "final-year-project-cda14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625811854868:android:cd95b98dad11137b25b901",
+        "android_client_info": {
+          "package_name": "com.example.green_clean_bangladesh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vV4rjHOHI38LxvOnME2u_b95Cesxdas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625811854868:android:44fd626cf06deed525b901",
+        "android_client_info": {
+          "package_name": "com.example.ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vV4rjHOHI38LxvOnME2u_b95Cesxdas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
